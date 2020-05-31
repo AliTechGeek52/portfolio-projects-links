@@ -10,10 +10,8 @@
 
 * **React-Weather: :** [View Here](https://alitechgeek52.github.io/react-weather/)
 
-* **React-Weather: :** [View Here](https://alitechgeek52.github.io/react-weather/)
-
 * **Game-House: :** [View Here](https://game-hosue.syedsameer.now.sh/)
 
-* **React-Weather: :** [View Here](https://github-clone.syedsameer.now.sh/)
+* **Github Clone: :** [View Here](https://github-clone.syedsameer.now.sh/)
 
 
