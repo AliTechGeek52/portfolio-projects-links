@@ -10,7 +10,7 @@
 
 ## Services
 
-**Website Designing , Website Development , Graphic Designing , Artificial Intelligence , Video Editing(Include Motion Graphics),
+**Website Designing** , **Website Development , Graphic Designing , Artificial Intelligence , Video Editing(Include Motion Graphics),
 Mobile App Development.
 
 ## Portfolio-Projects
