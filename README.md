@@ -11,18 +11,34 @@
 
 ## Portfolio-Projects
 
-* **Mobility Central: :** [View Here](https://alitechgeek52.github.io/Mobility-Central/)
+* **Mobility Central: :** [Url is Here](https://alitechgeek52.github.io/Mobility-Central/)
 
-* **Czestech: :** [View Here](http://www.czesttech.com/)
+* **Czestech: :** [Url is Here](http://www.czesttech.com/)
 
-* **Adeeb-Online: :** [View Here](http://www.adeeb-online.com/)
+* **Adeeb-Online: :** [Url is Here](http://www.adeeb-online.com/)
 
-* **Mockup: :** [View Here](https://alitechgeek52.github.io/14-may-mockup/)
+* **Molokaivillas: :** [Url is Here](http://molokaivillasb7.com/)
 
-* **React-Weather: :** [View Here](https://alitechgeek52.github.io/react-weather/)
+* **Pizzaraven: :** [Url is Here](https://www.pizzaraven.com/)
 
-* **Game-House: :** [View Here](https://game-hosue.syedsameer.now.sh/)
+* **Aggadv: :** [Url is Here](http://aggadv.com.br)
 
-* **Github Clone: :** [View Here](https://github-clone.syedsameer.now.sh/)
+* **S-A-K: :** [Url is Here](https://s-a-k.syedsameer.now.sh/)
+
+* **Mockup: :** [Url is Here](https://alitechgeek52.github.io/14-may-mockup/)
+
+* **DL-English: :** [Url is Here](http://dlenglish.vip/)
+
+* **GM-Travel: :** [Url is Here](https://www.gmtravel.co.uk/)
+
+* **Redbox Estate: :** [Url is Here](https://www.redbox.estate/)
+
+* **Noor Bazar: :** [Url is Here](Noorbazar.com)
+
+* **React-Weather: :** [Url is Here](https://alitechgeek52.github.io/react-weather/)
+
+* **Game-House: :** [Url is Here](https://game-hosue.syedsameer.now.sh/)
+
+* **Github Clone: :** [Url is Here](https://github-clone.syedsameer.now.sh/)
 
 
