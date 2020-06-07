@@ -10,12 +10,12 @@
 
 ## Services
 
-> Website Designing | 
-> Website Development |
-> Graphic Designing  |
-> Artificial Intelligence  |
-> Video Editing(Include Motion Graphics)  |
-> Mobile App Development
+> **W**ebsite Designing | 
+> **W**ebsite Development |
+> **G**raphic Designing  |
+> **A**rtificial Intelligence  |
+> **V**ideo Editing(Include Motion Graphics)  |
+> **M**obile App Development
 
 ## Portfolio-Projects
 
