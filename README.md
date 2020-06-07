@@ -8,7 +8,9 @@
 |**Firebase**|**Python**|**Numpy**|**Pandas**|**Matplotib**|**Chatbot**|
 |**Photoshop**|**Illustrator**|**Adobe XD**|**Figma**|**Premiere Pro**|**After Effects**|
 
+## Skills
 
+Website Designing , Website Development , Graphic Designing , Artificial Intelligence , Video Editing(Include Motion Graphics)
 
 ## Portfolio-Projects
 
